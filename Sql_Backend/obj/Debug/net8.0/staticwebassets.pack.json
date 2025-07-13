@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\aruns\\OneDrive\\Desktop\\RecipeNest\\Sql_Backend\\wwwroot\\uploads\\5098ee07-31b3-490a-8b38-08dafbcb66b3.png",
+      "PackagePath": "staticwebassets\\uploads\\5098ee07-31b3-490a-8b38-08dafbcb66b3.png"
+    },
+    {
+      "Id": "C:\\Users\\aruns\\OneDrive\\Desktop\\RecipeNest\\Sql_Backend\\wwwroot\\uploads\\62515dce-f3f8-4fc1-9de7-81c2dabf5707.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\62515dce-f3f8-4fc1-9de7-81c2dabf5707.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\aruns\\OneDrive\\Desktop\\RecipeNest\\Sql_Backend\\wwwroot\\uploads\\76d664ec-9f8b-4cfb-a796-d5956672c997.png",
+      "PackagePath": "staticwebassets\\uploads\\76d664ec-9f8b-4cfb-a796-d5956672c997.png"
+    },
+    {
+      "Id": "C:\\Users\\aruns\\OneDrive\\Desktop\\RecipeNest\\Sql_Backend\\wwwroot\\uploads\\7907e23b-2846-46d1-9613-e88497c996e3.png",
+      "PackagePath": "staticwebassets\\uploads\\7907e23b-2846-46d1-9613-e88497c996e3.png"
+    },
+    {
+      "Id": "C:\\Users\\aruns\\OneDrive\\Desktop\\RecipeNest\\Sql_Backend\\wwwroot\\uploads\\86f61cc3-8dea-4d3d-81f8-2382f296adc2.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\86f61cc3-8dea-4d3d-81f8-2382f296adc2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\aruns\\OneDrive\\Desktop\\RecipeNest\\Sql_Backend\\wwwroot\\uploads\\942f9938-9ecd-4c1c-8c7a-c49066a83a36.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\942f9938-9ecd-4c1c-8c7a-c49066a83a36.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\aruns\\OneDrive\\Desktop\\RecipeNest\\Sql_Backend\\wwwroot\\uploads\\ac1841cb-e748-4c44-93d1-742f684b8b9a.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\ac1841cb-e748-4c44-93d1-742f684b8b9a.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\aruns\\OneDrive\\Desktop\\RecipeNest\\Sql_Backend\\wwwroot\\uploads\\c0b0e3fb-e96a-4ead-b2e5-76e9b8dbc3a2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c0b0e3fb-e96a-4ead-b2e5-76e9b8dbc3a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aruns\\OneDrive\\Desktop\\RecipeNest\\Sql_Backend\\wwwroot\\uploads\\c6e9bbd2-74ed-471d-9e59-29dbb7c6d5a0.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c6e9bbd2-74ed-471d-9e59-29dbb7c6d5a0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aruns\\OneDrive\\Desktop\\RecipeNest\\Sql_Backend\\wwwroot\\uploads\\cf716fc4-b0fe-46b9-9f6f-c7b5738e29a4.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\cf716fc4-b0fe-46b9-9f6f-c7b5738e29a4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\aruns\\OneDrive\\Desktop\\RecipeNest\\Sql_Backend\\wwwroot\\uploads\\e6d426a3-48d6-4e10-a0a8-0c2139211b4e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e6d426a3-48d6-4e10-a0a8-0c2139211b4e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aruns\\OneDrive\\Desktop\\RecipeNest\\Sql_Backend\\wwwroot\\uploads\\f55e8b55-5468-474e-b1e4-ee3b40b0fe82.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\f55e8b55-5468-474e-b1e4-ee3b40b0fe82.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Sql_Backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Sql_Backend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Sql_Backend.props",
+      "PackagePath": "build\\Sql_Backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Sql_Backend.props",
+      "PackagePath": "buildMultiTargeting\\Sql_Backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Sql_Backend.props",
+      "PackagePath": "buildTransitive\\Sql_Backend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
